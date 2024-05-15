@@ -125,7 +125,7 @@ export default function App() {
             <div className="mt-12 flex flex-col lg:flex-row lg:space-x-10 items-center mx-auto px-24">
                 <div className="flex flex-col">
                     <p className="font-bold text-2xl text-center">Generate your ideas into reality with your local language</p>
-                    <p className="mx-auto mt-5">Generate images from text in an instant with your local Fon, Dendi & Youroba language.</p>
+                    <p className="mx-auto mt-5">Generate images from text in an instant with your local Youroba language.</p>
                 </div>
                 <img src={HeroImage} alt="Hero Image" className="w-96" />
             </div>
